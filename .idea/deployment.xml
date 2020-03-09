@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="general.asu.edu">
+    <serverData>
+      <paths name="general.asu.edu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/www/Spring20-IFT301/" local="$PROJECT_DIR$" web="/~xgutier1/Spring20-IFT301/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

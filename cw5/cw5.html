@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Using Internal Stylesheets - Programming Languages</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;}
+        h1 {
+            text-align: center;
+            color: midnightblue;
+            font-size: 36px;
+        }
+        h2 {
+            color: dodgerblue;
+            font-size: 24px;
+        }
+        div {
+            padding: 5px;
+            clear: both;
+        }
+        #types {
+            background-color: ghostwhite;
+            border: dotted 1px forestgreen;
+        }
+        #high-level {
+            background-color: dimgray;
+            color: whitesmoke;
+            border: solid 1px navy;
+            margin-top: 20px;
+        }
+        #high-level h2 {
+            color: skyblue;
+        }
+        #high-level h3 {
+            color: tan;
+            font-size: 18px
+        }
+        #high-level em {
+            font-style: normal;
+            border-bottom: dashed 1px whitesmoke;
+        }
+        p {
+            clear:both
+        }
+        p.nav {
+            text-align: center;
+            background-color: darkgreen;
+            color: white;
+            border: solid 1px black;
+            border-radius: 5px;
+            padding: 5px;
+        }
+        p.nav a {
+            text-decoration: none;
+            border-left: solid 1px white;
+            color: white;
+            font-weight: bold;
+            padding: 5px 10px;
+        }
+        p img {
+            float: left;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        figure {
+            display: inline-block;
+            horiz-align: center;
+        }
+        figure img {
+            margin-bottom: 10px;
+        }
+        figcaption {
+            text-align: center;
+        }
+        dt {
+            font-weight: bold;
+            float: left;
+            clear: left;
+            width: 50px;
+            padding: 10px;
+            border-top: dotted 1px lightgray;
+        }
+        dd {
+            margin-bottom: 10px;
+            margin-left: 70px;
+            padding: 10px;
+            border-top: dotted 1px lightgray;
+        }
+        a.btn {
+            border: solid 1px black;
+            border-radius: 5px;
+            background-color: mediumblue;
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+<a id="top"></a>
+<h1>
+    My Favorite Programming Language
+</h1>
+<p class="nav">
+    <a href="https://www.learneroo.com/modules/12/nodes/94" style="border-left: none" target="_blank">Programming Languages</a>
+    <a href="https://www.webopedia.com/TERM/H/high_level_language.html" target="_blank">High Level</a>
+    <a href="https://en.wikipedia.org/wiki/Low-level_programming_language" target="_blank">Low Level</a>
+    <a href="https://techterms.com/definition/assembly_language" target="_blank">Assembly Language</a>
+    <a href="#favorite">My Language</a>
+    <a href="#glossary" style="border-right: none">Glossary</a>
+</p>
+<div id="types">
+<h2>
+    Types of Languages
+</h2>
+<ul>
+    <li>Low-level languages</li>
+    <li>Assembly languages</li>
+    <li>High-level languages</li>
+    <li>4 GLs</li>
+</ul>
+</div>
+<div id="high-level">
+<h2>
+    High-Level Languages
+</h2>
+<p>
+    When we thing about computer programmers, we are probably thinking about people who write in <b>high-level programming languages</b>.
+</p>
+<p>
+    <b>High-level languages</b> are written in a form that is close to our human language, enabling to programmer to just focus on the problem being solved.
+</p>
+<p>
+    <i>Examples include</i>: C, C++, Java, Pascal, Python, Visual Basic.
+</p>
+<h3>
+    Advantages
+</h3>
+<ol>
+    <li>Easier to modify as it uses English like statements</li>
+    <li>Easier/faster to write code as it uses English like statements</li>
+    <li>Easier to debug during development due to English like statements</li>
+    <li>Portable code &#8211; not designed to run on just one type of machine</li>
+</ol>
+</div>
+<h2 id="favorite">My Favorite Language</h2>
+<div>
+<p>
+    <img src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png" alt="python logo" style="width:120px;">
+    My favorite programming language is Python. It is extremely versatile and and has many different libraries for it that are designed for everything from statistics and facial recognition AI to controlling development boards such as Arduino&#8482; or Adafruit&#8482; boards.
+    Python is also a very high-level code that closely relates to pseudo-code. It is a ton of fun to program little text based games
+    for practice or for real work like trying to find incoming security threats before they become an issue to your computer networking systems.
+    <br><br>
+    <i>"Python can do anything just badly."<br>&mdash;Michael Reeves</i>
+</p>
+</div>
+<div>
+    <h2>
+        My Top 3 Programmers
+    </h2>
+</div>
+<figure>
+    <img src="https://petapixel.com/assets/uploads/2019/09/tasercam_1.jpg" alt="Michael Reeves" style="width:250px">
+    <figcaption>
+        Michael Reeves
+    </figcaption>
+</figure>
+<figure>
+    <img src="https://i.redd.it/u8ajxu5pooz21.png" alt="Code Bullet" style="width:250px">
+    <figcaption>
+        Code Bullet
+    </figcaption>
+</figure>
+<figure>
+    <img src="https://media.newyorker.com/photos/5ba177da9eb2f7420aadeb98/master/pass/Cohen-Linus-Torvalds.jpg" alt="Linus Torvalds" style="width:250px">
+    <figcaption>
+        Linus Torvalds
+    </figcaption>
+</figure>
+<h2 id="glossary">
+    Glossary
+</h2>
+<dl>
+    <dt style="border-top:none">HTML</dt>
+    <dd style="border-top:none">Hypertext Markup Language, or HTML, is the standard markup language for web pages.
+        With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!</dd>
+    <dt>CSS</dt>
+    <dd>Cascading Style sheets, or CSS, is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed.</dd>
+    <dt>AJAX</dt>
+    <dd>Asynchronous JavaScript and XML, or AJAX, is a developer's dream, because you can read data from a web server after the page has loaded,
+    update a webpage without reloading the page, send data to a web server, etc. all in the background.</dd>
+    <dt>JSON</dt>
+    <dd>Javascript Object Notation, or JSON, is a syntax for storing and exchanging data. JSON is text, written with JavaScript object notation.</dd>
+</dl>
+<p>
+    <a href="#top" class="btn">Return to top</a>
+</p>
+</body>
+</html>

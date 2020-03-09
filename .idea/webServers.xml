@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="35540351-d0af-4216-8c09-787ebb4a4200" name="general.asu.edu" url="https://www.public.asu.edu">
+        <fileTransfer host="general.asu.edu" port="22" rootFolder="/afs/asu.edu/users/x/g/u/xgutier1" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

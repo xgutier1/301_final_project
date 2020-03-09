@@ -1,0 +1,109 @@
+.colorName {
+    color: white;
+}
+#headerBG {
+    text-align: center;
+    background: #003366;
+    background-size: cover;
+    padding-bottom: 15px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+}
+#header {
+    font-size: 50px;
+    padding: 0;
+    margin: 0;
+}
+#nospace {
+    padding: 0;
+    margin: 0;
+}
+#bold {
+    font-weight: bold;
+}
+#bolder {
+    font-weight: bolder;
+}
+.colorRGB {
+    color: rgb(228, 14, 52);
+}
+.backgroundBlue {
+    background-color: #031d44;
+    width: 85%;
+}
+.fontStandard {
+    font-family: "Arial Narrow", serif
+}
+.backgroundImg {
+    background-image: url("../hw5/rallybg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.links:hover {
+    background-color: rgb(228, 14, 52);
+}
+.links {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+}
+nav {
+    text-align: center;
+    font-size:x-large;
+    padding: 10px 0;
+    margin-top: 0;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    width: 100%;
+}
+#strip {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #37373b;
+    background-size: cover;
+    padding-bottom: 30px;
+    display:grid;
+    grid-template-columns: 75% 25%;
+}
+footer {
+    text-align: center;
+    background: #003366;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    color: #ffffff;
+    font-size: large;
+}
+#noDecor {
+    text-decoration: none;
+    color: #ffffff;
+}
+#noDecor:hover {
+    text-decoration: none;
+    color: #e40e34;
+}
+#box1 {
+    text-align:center;
+    margin-left: 15px;
+    margin-right: 15px;
+    grid-column: 1;
+    grid-row: 1;
+}
+#box2 {
+    text-align: center;
+    margin-right: 15px;
+    margin-left: 15px;
+    grid-area: 1 / 2 / 2 / 2
+}
+h1 {
+    text-align: center;
+}
+p, h1, h2 {
+    color: white;
+}
+p {
+    font-size: large;
+}

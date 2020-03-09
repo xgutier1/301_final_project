@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Programming Languages</title>
+</head>
+<body style="font-family: Arial, sans-serif">
+<h1 style="text-align:center">
+    Registration Form
+</h1>
+<p style="text-align:center">
+    * = required fields
+</p>
+<form action="" method="post">
+    <table align="center" cellpadding="5">
+        <tbody>
+        <tr>
+            <td style="text-align:right">
+                *User ID:
+            </td>
+            <td style="text-align:left">
+                <input style="width:150px" required type="text" pattern="^([A-Za-z0-9]+){5,12}$" name="userID" title="between 5-12 characters and only letters and numbers">
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+                *Password:
+            </td>
+            <td style="text-align:left">
+                <input style="width:150px" required type="password" name="password" pattern="^(?=.*\d)(?=.*[A-Z])(?=.*[a-z])(?=.*[!@#$%%^&*]).{7,12}$" title="between 7-12 characters. Requires one uppercase letter, one lowercase, one number, and one special character">
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+                *Name:
+            </td>
+            <td style="text-align:left">
+                <input style="width:350px" required type="text" name="name" pattern="^([A-Za-z]+){1,}$" title="Only uppercase and lowercase letters">
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+                Address:
+            </td>
+            <td style="text-align:left">
+                <input style="width:350px" type="text" name="address" title="We will find you">
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+                *Country:
+            </td>
+            <td style="text-align:left">
+                <label>
+                <select style="width:350px" name="country" required>
+                    <option value="NorthKorea" id="nk">North Korea</option>
+                    <option value="Turkmenistan" id="tk">Turkmenistan</option>
+                    <option value="USSR" id="ru">USSR</option>
+                    <option value="US" id="us">United States of America</option>
+                </select>
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+                *Zip Code:
+            </td>
+            <td style="text-align:left">
+                <input style="width:150px" required type="text" pattern="^([0-9]+){1,}$" name="Zipcode" title="Zip Code">
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+                *Email:
+            </td>
+            <td style="text-align:left">
+                <input style="width:350px" required type="email" name="email" title="Email Address">
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+            *Sex:
+            </td>
+            <td style="text-align:left">
+                <input type="radio" required name="gender" title="Male"> Male
+                <input type="radio" name="gender" title="Female"> Female
+                <input type="radio" name="gender" title="Other"> Other
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+                *Birthdate:
+            </td>
+            <td style="text-align:left">
+                <input style="width:150px" required type="date" name="bday" title="Birthdate">
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+                Language:
+            </td>
+            <td style="text-align:left">
+                <input type="checkbox" name="languages" title="English"> English
+                <input type="checkbox" name="languages" title="Spanish"> Spanish
+                <input type="checkbox" name="languages" title="Other"> Other
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:right">
+                About:
+            </td>
+            <td style="text-align:left">
+                <textarea rows="10" cols="50" name="about" title="All about you">
+                </textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center">
+            <input type="submit" value="Submit">
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</form>
+</body>
+</html>

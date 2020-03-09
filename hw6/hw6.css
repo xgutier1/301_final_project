@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Krona+One|Odibee+Sans|Saira+Semi+Condensed&display=swap');
+.colorName {
+    color: white;
+}
+.colorHEX {
+    color: #37373b;
+}
+.colorRGB {
+    color: rgb(228, 14, 52);
+}
+.colorHSL {
+    color: hsl(216, 92%, 14%);
+}
+.fontStandard {
+    font-family: "Arial Narrow", serif
+}
+.fontNonStandard {
+    font-family: 'Krona One', sans-serif
+}
+.links:hover {
+    background-color: rgb(228, 14, 52);
+}
+.links {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+}
+.backgroundGrey {
+    background-color: #37373b;
+}
+.backgroundBlue {
+    background-color: hsl(216, 92%, 14%);
+}
+nav {
+    text-align: center;
+    font-size:x-large;
+    padding-bottom:10px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+#header {
+    font-size: 50px;
+    padding: 0;
+    margin: 0;
+}
+#nospace {
+    padding: 0;
+    margin: 0;
+}
+#bold {
+    font-weight: bold;
+}
+#bolder {
+    font-weight: bolder;
+}
+img {
+    margin: 15px 10px 10px 0px;
+    width: 600px;
+    float: left;
+}
+h1 {
+    font-size: 60px;
+    text-decoration: underline dotted;
+    font-style: italic;
+    text-transform: capitalize;
+    vertical-align: bottom;
+    color: white;
+}
+#badLooks {
+    text-align: center;
+    text-indent: 50px;
+    text-shadow: black;
+    clear:left;
+    font-size: 50px
+}
+#badLooks:hover {
+    color: rgb(228, 14, 52)
+}
