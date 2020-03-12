@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Final-Project/hw8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-Project/hw8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-Project/rallybg.jpg" afterDir="false" />
+    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp">
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/2ColumnAndLine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/All.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/CarTunes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Cars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Contact Us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/StandardStrip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Submission Pages/SubmitCars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Submission Pages/SubmitStages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Submission Pages/SubmitTunes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Homepage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/hw8.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/hw8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/rallybg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/rallybg.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +31,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML4 File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,6 +40,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WMZePNsLWyyzSA2WGjFxOvBsXq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,19 +57,19 @@
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/cw5" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw5" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\TESTING" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw2" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw8" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw6" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\cw5" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw3" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw5" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\TESTING" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw2" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw1" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\CW1" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -111,12 +123,25 @@
       <workItem from="1583710821683" duration="7128000" />
       <workItem from="1583780676678" duration="944000" />
       <workItem from="1583796483641" duration="1575000" />
-      <workItem from="1583855524678" duration="4243000" />
+      <workItem from="1583855524678" duration="6235000" />
+      <workItem from="1584029070905" duration="3483000" />
     </task>
+    <task id="LOCAL-00001" summary="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp">
+      <created>1583869771746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583869771746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="156" key="#Deployment" timestamp="1583782290239">
@@ -138,14 +163,15 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="840" y="370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1583710778790" />
-    <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582514742967">
-      <screen x="0" y="0" width="2318" height="1265" />
-    </state>
-    <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1582514742967" />
-    <state x="1930" y="443" key="CommitChangelistDialog2" timestamp="1583869751856">
+    <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584029720489">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state x="1930" y="443" key="CommitChangelistDialog2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1583869751856" />
+    <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1582514742967" />
+    <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584029720489" />
+    <state x="1467" y="443" key="CommitChangelistDialog2" timestamp="1583883368884">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1467" y="443" key="CommitChangelistDialog2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1583883368884" />
     <state x="83" y="83" width="2152" height="1099" key="DiffContextDialog" timestamp="1581925644998">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -160,22 +186,31 @@
     </state>
     <state x="940" y="389" key="FileChooserDialogImpl/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1581649849910" />
     <state x="1410" y="589" key="FileChooserDialogImpl/0.0.3478.1917@0.0.3478.1917" timestamp="1581720452991" />
-    <state x="1058" y="558" key="com.intellij.ide.util.TipDialog" timestamp="1583855652268">
+    <state x="604" y="772" key="NewPhpFileDialog" timestamp="1584030611641">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="604" y="772" key="NewPhpFileDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030611641" />
+    <state x="1058" y="558" key="com.intellij.ide.util.TipDialog" timestamp="1584029075850">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578961526824" />
     <state x="798" y="418" key="com.intellij.ide.util.TipDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1579462405020" />
-    <state x="1058" y="558" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1583855652268" />
-    <state x="1530" y="0" width="1549" height="1694" key="dock-window-1" timestamp="1583869637331">
+    <state x="1058" y="558" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584029075850" />
+    <state x="1530" y="0" width="1549" height="1694" key="dock-window-1" timestamp="1584030253313">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="1153" y="0" width="1172" height="632" key="dock-window-1/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1583730114597" />
-    <state x="1530" y="0" width="1549" height="1694" key="dock-window-1/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1583869637331" />
+    <state x="1530" y="0" width="1549" height="1694" key="dock-window-1/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030253313" />
     <state x="1730" y="0" width="1759" height="1928" key="dock-window-1/0.0.3478.1917@0.0.3478.1917" timestamp="1581720529200" />
-    <state x="1153" y="626" width="1172" height="646" key="dock-window-2" timestamp="1583730114598">
-      <screen x="0" y="0" width="2318" height="1265" />
+    <state x="1536" y="0" width="1536" height="1688" key="dock-window-2" timestamp="1584030678267">
+      <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="1153" y="626" width="1172" height="646" key="dock-window-2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1583730114598" />
+    <state x="1536" y="0" width="1536" height="1688" key="dock-window-2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030678267" />
+    <state x="1475" y="90" width="1004" height="1337" key="dock-window-3" timestamp="1584041497524">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1475" y="90" width="1004" height="1337" key="dock-window-3/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584041497524" />
     <state x="209" y="178" width="743" height="909" key="find.popup" timestamp="1581928621264">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
