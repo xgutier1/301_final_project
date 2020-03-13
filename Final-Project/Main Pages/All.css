@@ -23,6 +23,7 @@
 }
 #bolder {
     font-weight: bolder;
+    animation:blinkingText 1.2s infinite;
 }
 .colorRGB {
     color: rgb(228, 14, 52);
@@ -84,4 +85,14 @@ p, h1, h2 {
 }
 p {
     font-size: large;
+}
+.blinking{
+    animation:blinkingText 1.2s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #ffffff;    }
+    49%{    color: #e40e34; }
+    60%{    color: #37373b; }
+    99%{    color:transparent;  }
+    100%{   color: #031d44;    }
 }
