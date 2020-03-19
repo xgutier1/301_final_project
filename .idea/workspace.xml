@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="">
+    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="restructured Final-Project Directory and made template for the secondary landing pages.">
+      <change afterPath="$PROJECT_DIR$/cw10/cw10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw10/cw10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw10/cw10.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +23,7 @@
         <option value="HTML4 File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -39,11 +43,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Final-Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/cw5" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project" />
+      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw8" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw6" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\cw5" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw5" />
@@ -51,13 +62,16 @@
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw2" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw1" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw8" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw6" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\cw5" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw3" />
-    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="cw10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/cw10/cw10.js" working-dir="$PROJECT_DIR$/cw10">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.cw10.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -111,7 +125,9 @@
       <workItem from="1583780676678" duration="944000" />
       <workItem from="1583796483641" duration="1575000" />
       <workItem from="1583855524678" duration="6235000" />
-      <workItem from="1584029070905" duration="3727000" />
+      <workItem from="1584029070905" duration="5411000" />
+      <workItem from="1584132851917" duration="636000" />
+      <workItem from="1584641675358" duration="4055000" />
     </task>
     <task id="LOCAL-00001" summary="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp">
       <created>1583869771746</created>
@@ -134,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584041714253</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="restructured Final-Project Directory and made template for the secondary landing pages.">
+      <created>1584041762952</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584041762952</updated>
+    </task>
+    <task id="LOCAL-00005" summary="restructured Final-Project Directory and made template for the secondary landing pages.">
+      <created>1584132880942</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584132880942</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,9 +187,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="359" key="#Options/0.0.2560.1400@0.0.2560.1400" timestamp="1579053190427" />
-    <state x="991" y="500" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579044541857">
+    <state x="991" y="500" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584643827813">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
+    <state x="991" y="500" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3072.1688/3840.451.1920.1040@0.0.3072.1688" timestamp="1584643827813" />
     <state x="991" y="500" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1579044541857" />
     <state x="840" y="370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583710778790">
       <screen x="0" y="0" width="2318" height="1265" />
@@ -170,10 +201,10 @@
     </state>
     <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1582514742967" />
     <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584029720489" />
-    <state x="1467" y="443" key="CommitChangelistDialog2" timestamp="1584041713471">
+    <state x="1467" y="443" key="CommitChangelistDialog2" timestamp="1584132880127">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state x="1467" y="443" key="CommitChangelistDialog2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584041713471" />
+    <state x="1467" y="443" key="CommitChangelistDialog2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132880127" />
     <state x="83" y="83" width="2152" height="1099" key="DiffContextDialog" timestamp="1581925644998">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -192,16 +223,17 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="604" y="772" key="NewPhpFileDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030611641" />
-    <state x="361" y="581" key="Vcs.Push.Dialog.v2" timestamp="1584041721103">
+    <state x="361" y="581" key="Vcs.Push.Dialog.v2" timestamp="1584132886851">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state x="361" y="581" key="Vcs.Push.Dialog.v2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584041721103" />
-    <state x="1058" y="558" key="com.intellij.ide.util.TipDialog" timestamp="1584029075850">
+    <state x="361" y="581" key="Vcs.Push.Dialog.v2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132886851" />
+    <state x="1058" y="558" key="com.intellij.ide.util.TipDialog" timestamp="1584641678848">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578961526824" />
     <state x="798" y="418" key="com.intellij.ide.util.TipDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1579462405020" />
-    <state x="1058" y="558" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584029075850" />
+    <state x="1058" y="558" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.451.1920.1040@0.0.3072.1688" timestamp="1584641678848" />
+    <state x="1058" y="558" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132852170" />
     <state x="1530" y="0" width="1549" height="1694" key="dock-window-1" timestamp="1584030253313">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
@@ -225,6 +257,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1726" y="434" key="ftp.server.browser/0.0.2560.1400@0.0.2560.1400" timestamp="1579055851826" />
+    <state x="634" y="739" key="publish.login" timestamp="1584651809928">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="634" y="739" key="publish.login/0.0.3072.1688/3840.451.1920.1040@0.0.3072.1688" timestamp="1584651809928" />
     <state x="120" y="295" key="run.anything.popup" timestamp="1581935592843">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>

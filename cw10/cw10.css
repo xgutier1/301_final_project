@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+    padding-top: 100px; }
+h1,h2, p {
+    text-align: center; }
+h1.top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    background-color: lightblue;
+    margin: 0;
+    padding: 20px; }
+div {
+    position: relative;
+    width:40%;
+    margin: 20px;
+    padding: 50px 20px 20px;
+    border-radius: 15px;
+    border: solid 1px #000000;
+    min-height:400px;
+    overflow: hidden;
+    transition: 1s; }
+div.hidden {
+    padding: 0px 20px;
+    min-height: 50px;
+    height: 50px; }
+div.hidden p { visibility: hidden; }
+p.left { text-align: left; }
+div h2 {
+    text-align: left;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    margin: 0px;
+    padding-top: 10px; }
+#box1 {
+    float: left;
+    background-color: purple;
+    color: whitesmoke; }
+#box2 {
+    float: right;
+    background-color: navy;
+    color: whitesmoke; }
+#box3 {
+    clear: both;
+    float: left;
+    background-color: darkgreen;
+    color: whitesmoke; }
+#box4 {
+    float: right;
+    background-color: teal;
+    color: whitesmoke; }
+.icons {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 0px;
+    margin: 0px;
+    min-height: 30px;
+    height: 30px;
+    width: 100px;
+    text-align: right;
+    border: none;
+    cursor: default; }
+.expand_less {
+    font-size: 2.2em;
+    vertical-align: bottom;
+    line-height: 30px; }
+.expand_more {
+    font-size: 2.2em;
+    vertical-align: bottom;
+    line-height: 30px; }
+input {
+    height: 30px;
+    border-radius: 5px;
+    border: solid 1px transparent;
+    font-size: 12px;
+    padding: 5px; }
+input[type="number"] {
+    width: 50px; }
+input[type="button"] {
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px; }
