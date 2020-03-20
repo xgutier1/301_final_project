@@ -92,7 +92,7 @@ p {
 @keyframes blinkingText{
     0%{     color: #ffffff;    }
     49%{    color: #e40e34; }
-    60%{    color: #37373b; }
+    60%{    color: #031d44; }
     99%{    color:transparent;  }
-    100%{   color: #031d44;    }
+    100%{   color: #37373b;    }
 }

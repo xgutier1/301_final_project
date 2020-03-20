@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="restructured Final-Project Directory and made template for the secondary landing pages.">
-      <change afterPath="$PROJECT_DIR$/cw10/cw10.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw10/cw10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw10/cw10.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/All.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/All.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cw10/cw10.html" beforeDir="false" afterPath="$PROJECT_DIR$/cw10/cw10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cw10/cw10.js" beforeDir="false" afterPath="$PROJECT_DIR$/cw10/cw10.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1WMZePNsLWyyzSA2WGjFxOvBsXq" />
   <component name="ProjectLevelVcsManager">
@@ -48,19 +49,19 @@
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/cw5" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\TESTING DO NOT DEPLOY" />
+      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw5" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\TESTING" />
+      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project" />
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw8" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw6" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\cw5" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw5" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\TESTING" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw2" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw1" />
     </key>
   </component>
   <component name="RunManager">
@@ -176,16 +177,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="restructured Final-Project Directory and made template for the secondary landing pages." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="156" key="#Deployment" timestamp="1583782290239">
-      <screen x="0" y="0" width="1739" height="939" />
+    <state x="238" y="424" key="#Deployment" timestamp="1584677788882">
+      <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="304" y="156" key="#Deployment/0.0.1739.939@0.0.1739.939" timestamp="1583782290239" />
-    <state x="1369" y="327" key="#Deployment/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1583462595417" />
+    <state x="238" y="424" key="#Deployment/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584677788882" />
     <state x="1512" y="362" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1579055903952" />
     <state x="1814" y="436" key="#Deployment/0.0.3072.1688@0.0.3072.1688" timestamp="1579044686338" />
-    <state x="872" y="359" key="#Options" timestamp="1579053190427">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="790" y="324" key="#Options" timestamp="1584677605347">
+      <screen x="0" y="0" width="2318" height="1265" />
     </state>
+    <state x="790" y="324" key="#Options/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584677605347" />
     <state x="872" y="359" key="#Options/0.0.2560.1400@0.0.2560.1400" timestamp="1579053190427" />
     <state x="991" y="500" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584643827813">
       <screen x="0" y="0" width="3072" height="1688" />
@@ -201,9 +203,10 @@
     </state>
     <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1582514742967" />
     <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584029720489" />
-    <state x="1467" y="443" key="CommitChangelistDialog2" timestamp="1584132880127">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state x="1107" y="332" key="CommitChangelistDialog2" timestamp="1584681470270">
+      <screen x="0" y="0" width="2318" height="1265" />
     </state>
+    <state x="1107" y="332" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584681470270" />
     <state x="1467" y="443" key="CommitChangelistDialog2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132880127" />
     <state x="83" y="83" width="2152" height="1099" key="DiffContextDialog" timestamp="1581925644998">
       <screen x="0" y="0" width="2318" height="1265" />
@@ -234,6 +237,10 @@
     <state x="798" y="418" key="com.intellij.ide.util.TipDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1579462405020" />
     <state x="1058" y="558" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.451.1920.1040@0.0.3072.1688" timestamp="1584641678848" />
     <state x="1058" y="558" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132852170" />
+    <state x="969" y="550" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584666086656">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="969" y="550" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584666086656" />
     <state x="1530" y="0" width="1549" height="1694" key="dock-window-1" timestamp="1584030253313">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
@@ -266,10 +273,10 @@
     </state>
     <state x="91" y="219" key="run.anything.popup/0.0.1739.939@0.0.1739.939" timestamp="1580832459570" />
     <state x="120" y="295" key="run.anything.popup/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1581935592843" />
-    <state x="355" y="297" width="672" height="448" key="search.everywhere.popup" timestamp="1582173248899">
+    <state x="355" y="297" width="672" height="448" key="search.everywhere.popup" timestamp="1584677503283">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="355" y="297" width="672" height="448" key="search.everywhere.popup/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1582173248899" />
+    <state x="355" y="297" width="672" height="448" key="search.everywhere.popup/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584677503283" />
     <state x="533" y="450" width="672" height="678" key="search.everywhere.popup/0.0.3478.1917@0.0.3478.1917" timestamp="1579909802491" />
   </component>
 </project>
