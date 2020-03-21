@@ -62,26 +62,30 @@ footer {
     text-align: center;
     background: #003366;
     background-size: cover;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin-left: 7.5%;
     margin-right: 7.5%;
     color: #ffffff;
     font-size: large;
 }
-#noDecor {
+.noDecor {
     text-decoration: none;
     color: #ffffff;
 }
-#noDecor:hover {
+.noDecor:hover {
     text-decoration: none;
     color: #e40e34;
 }
 h1 {
     text-align: center;
+    font-size: xx-large;
 }
 p, h1, h2 {
     color: white;
+}
+h2 {
+    font-size: x-large;
 }
 p {
     font-size: large;

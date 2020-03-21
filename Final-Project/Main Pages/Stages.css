@@ -1,0 +1,84 @@
+#boxLine {
+    background-color: #031d44;
+    grid-column: 2;
+    height: 100%;
+    margin-top: 10px;
+}
+#boxHeader {
+    text-align:center;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row: 1;
+}
+#box1 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 2;
+}
+#box2 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 2;
+}
+#box3 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 2;
+}
+#box4 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 3;
+}
+#box5 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 3;
+}
+#box6 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 3;
+}
+#box7 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 4;
+}
+#box8 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 4;
+}
+#box9 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 4;
+}
+#strip {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #37373b;
+    background-size: cover;
+    padding-bottom: 30px;
+    display:grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-gap: 3px;
+    justify-items: center;
+    justify-content: center;
+}
+.boxborder {
+    background-color: #003366;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    border: 3px solid #031d44;
+    text-align: center;
+}
+.boxborder:hover {
+    background-color: #334c66;
+    border: 3px solid #223045;
+}
+img {
+    width: 350px
+}
