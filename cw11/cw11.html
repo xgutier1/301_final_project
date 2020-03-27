@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Classwork #10</title>
+    <link rel="stylesheet" type="text/css" href="cw11.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
+<h1 class="top">Javascript Examples</h1>
+<div id="box1">
+    <div class="icons">
+        <i class="material-icons expand_less">expand_less</i>
+        <i class="material-icons expand_more" style="display: none">expand_more</i>
+    </div>
+    <h2>Add Two Numbers</h2>
+    <p class="left">Put numbers in the first two boxes and click the button to add them together.</p>
+    <p>
+        <label for="number1"></label><input type="number" id="number1"> +
+        <label for="number2"></label><input type="number" id="number2"> =
+        <label for="number3"></label><input type="number" id="number3" disabled>
+    </p>
+    <p>
+        <input type="button" id="numberBtn" value="Add">
+    </p>
+</div>
+<div id="box2">
+    <div class="icons">
+        <i class="material-icons expand_less">expand_less</i>
+        <i class="material-icons expand_more" style="display: none">expand_more</i>
+    </div>
+    <h2>Display Date and Time</h2>
+    <p class="left">
+        Click the button below to display the current date and time.
+    </p>
+    <p>
+        <span id="dateAndTime">&nbsp;</span>
+    </p>
+    <p>
+        <input type="button" id="dateAndTimeBtn" value="Display Date and Time">
+    </p>
+</div>
+<div id="box3">
+    <div class="icons">
+        <i class="material-icons expand_less">expand_less</i>
+        <i class="material-icons expand_more" style="display: none">expand_more</i>
+    </div>
+    <h2>Convert F&deg; to C&deg;</h2>
+    <p class="left">
+        Enter a number in the box below and click the 'Convert' button to convert the
+        number to degrees in Celsius. You should enter a number between -100 and 212.
+    </p>
+    <p>
+        <label for="fdeg"></label><input type="number" id="fdeg">
+    </p>
+    <p><span id="convertDegMsg">&nbsp;</span></p>
+    <p>
+        <input type="button" id="convertDegBtn" value="Convert">
+    </p>
+</div>
+<div id="box4">
+    <div class="icons">
+    <i class="material-icons expand_less">expand_less</i>
+    <i class="material-icons expand_more" style="display: none">expand_more</i>
+    </div>
+    <h2>
+        Convert % to Letter Grade
+    </h2>
+    <p class="left">
+        Enter a percentage and click the 'Convert' button to convert it to a letter grade.
+        You should enter a number between 0 and 100.
+    </p>
+    <p>
+        <label for="percent"></label><input type="number" id="percent">
+    </p>
+    <p><span id="convertGradeMsg">&nbsp;</span></p>
+    <p>
+        <input type="button" id="convertGradeBtn" value="Convert">
+    </p>
+</div>
+<script src="cw11.js"></script>
+</body>
+</html>
