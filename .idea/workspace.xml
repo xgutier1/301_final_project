@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="restructured Final-Project Directory and made template for the secondary landing pages.">
-      <change afterPath="$PROJECT_DIR$/cw11/cw11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw11/cw11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw11/cw11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw10/hw10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw10/hw10.js" afterDir="false" />
+    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hw11/hw11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw11/hw11.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,24 +43,24 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cw11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hw11" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/cw5" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\cw11" />
-      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
-      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
-      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw8" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\RTEST" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\TESTING DO NOT DEPLOY" />
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
       <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\hw11" />
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\cw11" />
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
+      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
+      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project" />
     </key>
   </component>
   <component name="RunManager">
