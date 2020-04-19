@@ -82,3 +82,28 @@
 img {
     width: 350px
 }
+#stripStages {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #37373b;
+    background-size: cover;
+    padding-bottom: 30px;
+    display:grid;
+    grid-template-columns: 450px 800px;
+    grid-gap: 3px;
+    justify-items: center;
+    justify-content: center;
+}
+.pHeight {
+    line-height: 30px;
+}
+.iframe {
+    width: 701px;
+    height: 394px;
+}
+#boxHeaderStages {
+    text-align:center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 1;
+}

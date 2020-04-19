@@ -1,0 +1,70 @@
+#strip {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #37373b;
+    background-size: cover;
+    display: grid;
+    padding-bottom: 30px;
+}
+#stripContact {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #37373b;
+    background-size: cover;
+    padding-bottom: 30px;
+    display:grid;
+    grid-gap: 3px;
+    grid-template-columns: 45% 55%;
+}
+#prefName1 {
+    text-align: right;
+    grid-column: 1;
+    grid-row: 2;
+}
+#prefName2 {
+    margin-top: 13px;
+    grid-column: 2;
+    grid-row: 2;
+}
+#reason1 {
+    text-align: right;
+    grid-column: 1;
+    grid-row: 3;
+}
+#reason2 {
+    margin-top: 13px;
+    grid-column: 2;
+    grid-row: 3;
+}
+#email1 {
+    text-align: right;
+    grid-column: 1;
+    grid-row: 4;
+}
+#email2 {
+    margin-top: 13px;
+    grid-column: 2;
+    grid-row: 4;
+}
+#textField1 {
+    text-align: right;
+    grid-column: 1;
+    grid-row: 5;
+}
+#textField2 {
+    margin-top: 13px;
+    grid-column: 2;
+    grid-row: 5;
+}
+#contactSubmit {
+    text-align:center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 6;
+}
+#boxHeaderStages {
+    text-align:center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 1;
+}

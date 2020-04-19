@@ -93,10 +93,51 @@ p {
 .blinking{
     animation:blinkingText 1.2s infinite;
 }
-@keyframes blinkingText{
-    0%{     color: #ffffff;    }
-    49%{    color: #e40e34; }
-    60%{    color: #031d44; }
-    99%{    color:transparent;  }
-    100%{   color: #37373b;    }
+@keyframes blinkingText {
+    0% {
+        color: #ffffff;
+    }
+    49% {
+        color: #e40e34;
+    }
+    60% {
+        color: #031d44;
+    }
+    99% {
+        color: transparent;
+    }
+    100% {
+        color: #37373b;
+    }
+}
+input, textarea {
+    background-color: gray;
+    color: white;
+    border: 1px solid #003366;
+    box-sizing: border-box;
+    padding: 6px 80px 6px 5px;
+    -webkit-transition: 1s;
+    transition: 1s;
+    outline: none;
+}
+button {
+    border: 1px solid #031d44;
+    background-color: #003366;
+    color: white;
+    padding: 5px 10px;
+    font-size: large;
+    outline: none;
+    -webkit-transition: 1s;
+    transition: 1s;
+}
+button:active {
+    background-color: #1A4D80;
+    border: 2px solid #1D375E;
+    color: #AAAAAA;
+    transition: 0s;
+    padding: 4px 9px;
+    -webkit-transition: 0s;
+}
+input:focus, textarea:focus {
+    border: 1px solid #e40e34;
 }

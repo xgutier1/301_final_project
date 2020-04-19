@@ -1,0 +1,106 @@
+body {
+    font-family: sans-serif;
+    font-size: 25px;
+    color: whitesmoke;
+    background-color: #333333;
+}
+#calendar {
+    width: fit-content;
+    margin: auto;
+}
+div {
+    height: 30px;
+    margin: 20px;
+}
+.header {
+    position: relative;
+}
+.left-icon, .right-icon {
+    position: absolute;
+    color: whitesmoke;
+    background-color: #333333;
+    padding: 10px;
+    border: solid 1px transparent;
+    cursor: default;
+}
+.left-icon.hover, .right-icon.hover {
+    color: #333333;
+    background-color: whitesmoke;
+    border: solid 1px whitesmoke;
+}
+.left-icon {
+    left: 20px;
+    top: -30px;
+}
+.right-icon {
+    right: 20px;
+    top: -30px;
+}
+.material-icons {
+    font-size: 30px;
+}
+.month {
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+}
+.weekday {
+    display: inline-block;
+    width: 60px;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    border: solid 1px transparent;
+}
+.day {
+    display: inline-block;
+    width: 60px;
+    text-align: center;
+    padding: 10px;
+    border: solid 1px transparent;
+    cursor: default;
+}
+.day.hover {
+    border: solid 1px white;
+    color: white;
+}
+.padding-before, .padding-after {
+    color: #666666;
+}
+.current {
+    color: lightblue;
+    border: solid 1px lightblue;
+}
+.hasEvent {
+    color: lightblue;
+}
+#event-list {
+    margin: 0;
+    margin-top: 100px;
+    border: solid 1px whitesmoke;
+    min-height: 300px;
+    max-width: 100%;
+    width: 100%;
+}
+.no-events {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    line-height: 300px;
+}
+.start {
+    float: left;
+    margin-right: 50px;
+    width: 110px;
+}
+.title {
+    float: right;
+    width: calc(100% - 220px);
+}
+.location {
+    clear: right;
+    float: right;
+    width: calc(100% - 220px);
+    font-size: 16px;
+    margin-top: -10px;
+}

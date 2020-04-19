@@ -13,6 +13,8 @@ function alignLeft(el) {
 
 document.getElementById('background').addEventListener('click', function() { background(); });
 
+document.getElementById('name').addEventListener('click', function() { fullName(); });
+
 function parentSib(el) {
     el = el[0];
     const childLink = el.firstElementChild;
@@ -33,3 +35,21 @@ function background() {
     }
 }
 
+function fullName() {
+    const fname = document.getElementById('fname').value;
+    const lname = document.getElementById('lname').value;
+    const name = {
+        firstName: fname, lastName: lname,
+        fullName: function() {
+            return this.firstName + " " + this.lastName;
+        }
+    };
+    document.getElementById('fullName').value = name.fullName();
+}
+
+document.getElementById('sumButton').addEventListener('click', function() { addNum(); });
+
+function addNum() {
+    const length = document.getElementById('nums').value;
+
+}

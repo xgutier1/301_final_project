@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hw11/hw11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw11/hw11.js" afterDir="false" />
+    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="restructured Final-Project Directory and made template for the secondary landing pages.">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Ctrl+C&amp;Ctrl+V.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Stages/argentina-catamarca.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Stages/australia-monaro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Stages/new-zealand-hawkes-bay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/awful.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw12/cw12.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw12/cw12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw12/cw12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw13/cw13.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw13/cw13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw13/cw13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw13/cw13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw14/cw14.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw14/cw14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cw14/cw14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IFT301.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IFT301.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xavie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/xavie.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Construction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Construction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/All.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/All.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/CarTunes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/CarTunes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Cars.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Cars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Contact Us.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Contact Us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/StandardStrip.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/homeStrip.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw11/hw11.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw11/hw11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw11/hw11.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw11/hw11.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +49,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML4 File" />
-        <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="JSON File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,21 +73,22 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hw11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cw14" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/cw5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages\Stages" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\RTEST" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\TESTING DO NOT DEPLOY" />
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
-      <recent name="C:\Users\xavie\PhpstormProjects\IFT301\hw5" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\hw11" />
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\cw14" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\cw11" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
@@ -132,6 +164,12 @@
       <workItem from="1584769272924" duration="906000" />
       <workItem from="1584913882427" duration="5512000" />
       <workItem from="1585267780316" duration="2590000" />
+      <workItem from="1585538840747" duration="2436000" />
+      <workItem from="1585546822543" duration="707000" />
+      <workItem from="1586048382029" duration="1968000" />
+      <workItem from="1587089908230" duration="3036000" />
+      <workItem from="1587172997094" duration="6166000" />
+      <workItem from="1587258512591" duration="7735000" />
     </task>
     <task id="LOCAL-00001" summary="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp">
       <created>1583869771746</created>
@@ -181,6 +219,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp" />
     <MESSAGE value="restructured Final-Project Directory and made template for the secondary landing pages." />
@@ -208,6 +257,10 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="334" y="439" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584755293160" />
+    <state x="223" y="403" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1587092213387">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="223" y="403" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587092213387" />
     <state x="840" y="370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583710778790">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -217,10 +270,10 @@
     </state>
     <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1582514742967" />
     <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584029720489" />
-    <state x="1107" y="332" key="CommitChangelistDialog2" timestamp="1585302317642">
+    <state x="1107" y="332" key="CommitChangelistDialog2" timestamp="1587268329214">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1107" y="332" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1585302317642" />
+    <state x="1107" y="332" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587268329214" />
     <state x="3289" y="320" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@2560.192.1739.939" timestamp="1584765001587" />
     <state x="1467" y="443" key="CommitChangelistDialog2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132880127" />
     <state x="83" y="83" width="2152" height="1099" key="DiffContextDialog" timestamp="1581925644998">
@@ -257,10 +310,10 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="969" y="550" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584666086656" />
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1" timestamp="1585301523139">
-      <screen x="0" y="0" width="2318" height="1265" />
+    <state x="3423" y="192" width="882" height="946" key="dock-window-1" timestamp="1587267884873">
+      <screen x="2560" y="192" width="1739" height="939" />
     </state>
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1585301523139" />
+    <state x="3423" y="192" width="882" height="946" key="dock-window-1/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587267884873" />
     <state x="1530" y="0" width="1549" height="1694" key="dock-window-1/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030253313" />
     <state x="1730" y="0" width="1759" height="1928" key="dock-window-1/0.0.3478.1917@0.0.3478.1917" timestamp="1581720529200" />
     <state x="1153" y="0" width="1172" height="1272" key="dock-window-2" timestamp="1585302125452">
@@ -289,10 +342,10 @@
     </state>
     <state x="91" y="219" key="run.anything.popup/0.0.1739.939@0.0.1739.939" timestamp="1580832459570" />
     <state x="120" y="295" key="run.anything.popup/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1581935592843" />
-    <state x="355" y="297" width="672" height="448" key="search.everywhere.popup" timestamp="1584757922693">
+    <state x="355" y="297" width="672" height="448" key="search.everywhere.popup" timestamp="1587268289332">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="355" y="297" width="672" height="448" key="search.everywhere.popup/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584757922693" />
+    <state x="355" y="297" width="672" height="448" key="search.everywhere.popup/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587268289332" />
     <state x="533" y="450" width="672" height="678" key="search.everywhere.popup/0.0.3478.1917@0.0.3478.1917" timestamp="1579909802491" />
   </component>
 </project>

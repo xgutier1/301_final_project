@@ -1,0 +1,23 @@
+{
+  "events":
+  [
+    {
+      "start": "2020-04-16 21:00",
+      "end": "2020-04-16 23:59",
+      "title": "Finish CW13 and CW14",
+      "location": "Computer"
+    },
+    {
+      "start": "2020-04-14 15:15",
+      "end": "2020-04-14 15:20",
+      "title": "Pick up Ryzen 3600 package",
+      "location": "Leasing Office"
+    },
+    {
+      "start": "2020-04-15 12:00",
+      "end": "2020-04-15 16:00",
+      "title": "Start overclocking",
+      "location": "My Room"
+    }
+  ]
+}
