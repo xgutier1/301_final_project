@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="general.asu.edu" id="4d45fca8-8e10-4ab4-bfa5-f164d8fe0ce3" port="22" customName="general.asu.edu" nameFormat="CUSTOM" username="xgutier1" />
+      <sshConfig authType="PASSWORD" host="general.asu.edu" id="56edaaa3-d286-4a72-ad6d-fff17950695a" port="22" customName="general.asu.edu" nameFormat="CUSTOM" username="xgutier1" />
+    </configs>
+  </component>
+</project>

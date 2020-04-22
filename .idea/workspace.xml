@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="restructured Final-Project Directory and made template for the secondary landing pages.">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-Project/Ctrl+C&amp;Ctrl+V.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Stages/argentina-catamarca.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Stages/australia-monaro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Stages/new-zealand-hawkes-bay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final-Project/awful.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw12/cw12.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw12/cw12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw12/cw12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw13/cw13.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw13/cw13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw13/cw13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw13/cw13.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw14/cw14.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw14/cw14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw14/cw14.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IFT301.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IFT301.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xavie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/xavie.xml" afterDir="false" />
+    <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw13/hw13.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw13/hw13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw13/hw13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw13/hw13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw13/imagination.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Construction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Construction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/All.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/All.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/CarTunes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/CarTunes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Cars.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Cars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Australia.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Australia.jfif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Contact Us.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Contact Us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Germany.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Germany.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/StandardStrip.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/homeStrip.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw11/hw11.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw11/hw11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw11/hw11.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw11/hw11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Monaco.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Monaco.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/New Zealand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/New Zealand.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Poland.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Poland.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Spain.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Spain.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Sweden.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Sweden.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/USA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/USA.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/argentina.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/argentina.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/rallybg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/rallybg.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +29,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML4 File" />
-        <option value="JavaScript File" />
         <option value="tsconfig.json" />
-        <option value="JSON File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="JSON File" />
       </list>
     </option>
   </component>
@@ -67,7 +53,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -77,15 +62,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cw14" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/cw5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages\images" />
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\hw13" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages\Stages" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\RTEST" />
-      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\TESTING DO NOT DEPLOY" />
-      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
-      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\cw14" />
@@ -104,18 +90,6 @@
         <item itemvalue="Node.js.cw10.js" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -170,6 +144,11 @@
       <workItem from="1587089908230" duration="3036000" />
       <workItem from="1587172997094" duration="6166000" />
       <workItem from="1587258512591" duration="7735000" />
+      <workItem from="1587268229641" duration="161000" />
+      <workItem from="1587347333398" duration="633000" />
+      <workItem from="1587399215774" duration="11898000" />
+      <workItem from="1587519614296" duration="1199000" />
+      <workItem from="1587520823566" duration="729000" />
     </task>
     <task id="LOCAL-00001" summary="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp">
       <created>1583869771746</created>
@@ -213,11 +192,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584765002249</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="restructured Final-Project Directory and made template for the secondary landing pages.">
+      <created>1587268380600</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587268380600</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -229,6 +215,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp" />
@@ -261,19 +248,19 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="223" y="403" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587092213387" />
-    <state x="840" y="370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583710778790">
+    <state x="840" y="370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587519513190">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="840" y="370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1583710778790" />
+    <state x="840" y="370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587519513190" />
     <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584029720489">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1582514742967" />
     <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584029720489" />
-    <state x="1107" y="332" key="CommitChangelistDialog2" timestamp="1587268329214">
+    <state x="1107" y="332" key="CommitChangelistDialog2" timestamp="1587268379830">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1107" y="332" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587268329214" />
+    <state x="1107" y="332" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587268379830" />
     <state x="3289" y="320" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@2560.192.1739.939" timestamp="1584765001587" />
     <state x="1467" y="443" key="CommitChangelistDialog2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132880127" />
     <state x="83" y="83" width="2152" height="1099" key="DiffContextDialog" timestamp="1581925644998">
@@ -294,9 +281,14 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="604" y="772" key="NewPhpFileDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030611641" />
-    <state x="2764" y="515" key="Vcs.Push.Dialog.v2" timestamp="1584765006642">
-      <screen x="2560" y="192" width="1739" height="939" />
+    <state x="989" y="274" key="SettingsEditor" timestamp="1587521552462">
+      <screen x="0" y="0" width="2318" height="1265" />
     </state>
+    <state x="989" y="274" key="SettingsEditor/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587521552462" />
+    <state x="272" y="435" key="Vcs.Push.Dialog.v2" timestamp="1587268384200">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="272" y="435" key="Vcs.Push.Dialog.v2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587268384200" />
     <state x="2764" y="515" key="Vcs.Push.Dialog.v2/0.0.2318.1265/2560.192.1739.939@2560.192.1739.939" timestamp="1584765006642" />
     <state x="361" y="581" key="Vcs.Push.Dialog.v2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132886851" />
     <state x="1058" y="558" key="com.intellij.ide.util.TipDialog" timestamp="1584641678848">
@@ -310,20 +302,21 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="969" y="550" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584666086656" />
-    <state x="3423" y="192" width="882" height="946" key="dock-window-1" timestamp="1587267884873">
-      <screen x="2560" y="192" width="1739" height="939" />
-    </state>
-    <state x="3423" y="192" width="882" height="946" key="dock-window-1/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587267884873" />
-    <state x="1530" y="0" width="1549" height="1694" key="dock-window-1/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030253313" />
-    <state x="1730" y="0" width="1759" height="1928" key="dock-window-1/0.0.3478.1917@0.0.3478.1917" timestamp="1581720529200" />
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-2" timestamp="1585302125452">
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1" timestamp="1587400803781">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1585302125452" />
-    <state x="1536" y="0" width="1536" height="1688" key="dock-window-2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030678267" />
-    <state x="1475" y="90" width="1004" height="1337" key="dock-window-3" timestamp="1584041497524">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587400803781" />
+    <state x="1530" y="0" width="1549" height="1694" key="dock-window-1/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030253313" />
+    <state x="1730" y="0" width="1759" height="1928" key="dock-window-1/0.0.3478.1917@0.0.3478.1917" timestamp="1581720529200" />
+    <state x="139" y="435" width="900" height="1251" key="dock-window-2" timestamp="1587402440750">
+      <screen x="0" y="0" width="2318" height="1265" />
     </state>
+    <state x="139" y="435" width="900" height="1251" key="dock-window-2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587402440750" />
+    <state x="1536" y="0" width="1536" height="1688" key="dock-window-2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030678267" />
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-3" timestamp="1587411127554">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-3/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587411127554" />
     <state x="1475" y="90" width="1004" height="1337" key="dock-window-3/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584041497524" />
     <state x="209" y="178" width="743" height="909" key="find.popup" timestamp="1581928621264">
       <screen x="0" y="0" width="2318" height="1265" />
