@@ -1,0 +1,269 @@
+#strip {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #37373b;
+    background-size: cover;
+    display: grid;
+    padding-bottom: 30px;
+}
+#stripContact {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #37373b;
+    background-size: cover;
+    padding-bottom: 30px;
+    display:grid;
+    grid-gap: 3px;
+    grid-template-columns: 45% 55%;
+}
+#prefName1 {
+    text-align: right;
+    grid-column: 1;
+    grid-row: 2;
+}
+#prefName2 {
+    margin-top: 13px;
+    grid-column: 2;
+    grid-row: 2;
+}
+#reason1 {
+    text-align: right;
+    grid-column: 1;
+    grid-row: 3;
+}
+#reason2 {
+    margin-top: 13px;
+    grid-column: 2;
+    grid-row: 3;
+}
+#email1 {
+    text-align: right;
+    grid-column: 1;
+    grid-row: 4;
+}
+#email2 {
+    margin-top: 13px;
+    grid-column: 2;
+    grid-row: 4;
+}
+#textField1 {
+    text-align: right;
+    grid-column: 1;
+    grid-row: 5;
+}
+#textField2 {
+    margin-top: 13px;
+    grid-column: 2;
+    grid-row: 5;
+}
+#contactSubmit {
+    text-align:center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 6;
+}
+#boxHeaderStages {
+    text-align:center;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row: 1;
+}
+#boxHeaderCars {
+    text-align:center;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row: 1;
+}
+#stripCars {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    background: #37373b;
+    background-size: cover;
+    padding-bottom: 30px;
+    display:grid;
+    grid-template-columns: 350px 350px 350px 350px;
+    grid-column-gap: 0;
+    grid-row-gap: 3px;
+    justify-items: center;
+    justify-content: center;
+}
+.boxborder img {
+    width: 350px;
+    height: 200px;
+    overflow: hidden;
+}
+.boxborder:hover {
+    background-color: #334c66;
+    border: 3px solid #223045;
+}
+.boxborder {
+    background-color: #003366;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 3px;
+    border: 3px solid #031d44;
+    text-align: center;
+    width:350px;
+}
+.boxborderCars {
+    background-color: #003366;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 3px;
+    border: 3px solid #031d44;
+    text-align: center;
+    width:300px;
+    display: none;
+}
+.boxborderCars img {
+    width: 200px;
+    height: 85px;
+    overflow: hidden;
+    float: bottom;
+}
+.boxborderCars:hover {
+    background-color: #334c66;
+    border: 3px solid #223045;
+}
+#box1 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 2;
+}
+#box2 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 2;
+}
+#box3 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 2;
+}
+#box4 {
+    align-content: center;
+    grid-column: 4;
+    grid-row: 2;
+}
+#box5 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 3;
+}
+#box6 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 3;
+}
+#box7 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 3;
+}
+#box8 {
+    align-content: center;
+    grid-column: 4;
+    grid-row: 3;
+}
+#box9 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 4;
+}
+#box10 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 4;
+}
+#box11 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 4;
+}
+#box12 {
+    align-content: center;
+    grid-column: 4;
+    grid-row: 4;
+}
+#box13 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 5;
+}
+#box14 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 5;
+}
+#box15 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 5;
+}
+#box16 {
+    align-content: center;
+    grid-column: 4;
+    grid-row: 5;
+}
+#box17 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 6;
+}
+#box18 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 6;
+}
+#box19 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 6;
+}
+#box20 {
+    align-content: center;
+    grid-column: 4;
+    grid-row: 6;
+}
+#box21 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 7;
+}
+#box22 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 7;
+}
+#box23 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 7;
+}
+#box24 {
+    align-content: center;
+    grid-column: 4;
+    grid-row: 7;
+}
+#box25 {
+    align-content: center;
+    grid-column: 1;
+    grid-row: 8;
+}
+#box26 {
+    align-content: center;
+    grid-column: 2;
+    grid-row: 8;
+}
+#box27 {
+    align-content: center;
+    grid-column: 3;
+    grid-row: 8;
+}
+#box28 {
+    align-content: center;
+    grid-column: 4;
+    grid-row: 8;
+}

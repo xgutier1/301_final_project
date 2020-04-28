@@ -2,26 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce3664f-6243-4964-8a41-c6d6d5184796" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw13/hw13.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw13/hw13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw13/hw13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw13/hw13.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw13/imagination.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Main Pages/main-CSS/homeStrip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Scripts/contactScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/Scripts/showMoreCars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/alpine-a110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/aston-martin-v8-vantage-gt4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/audi-s1-eks-rx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/audi-s1-eks-rx2019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/audi-sport-quattro-s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/bmw-m1-procar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/bmw-m2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/bmw-m3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/chevrolet-camaro-gt4.r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/citreon-c3-r5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/citreon-c4-wrc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/citroen-ds-21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/datsun-240z.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/fiat-131-abarth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-escort-mkII.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-escort-rs-cosworth-mkV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-fiesta-r2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-fiesta-r5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-fiesta-rxs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-fiesta-st-wrx-mkVI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-fiesta-st-wrx-mkVII.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-fiesta-st-wrx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-fiesta-st-wrx2019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-focus-rs-wrc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-focus-wrc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-mustang-gt4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-rs200-1986.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-rs200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/ford-sierra-1987.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/lancia-037-rally.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/lancia-delta-s4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Project/images/lancia-delta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IFT301.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IFT301.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xavie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/xavie.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Australia.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Australia.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Construction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Ctrl+C&amp;Ctrl+V.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/All.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/main-CSS/All.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/CarTunes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Cars.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Cars.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Contact Us.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Contact Us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Germany.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Germany.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/main-CSS/Home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Monaco.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Monaco.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/New Zealand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/New Zealand.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Poland.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Poland.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Spain.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Spain.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Sweden.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/Sweden.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/USA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/USA.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/argentina.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/argentina.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/rallybg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Main Pages/images/rallybg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Locations/Locations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Locations.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Locations/Locations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Stages/argentina-catamarca.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Locations/Stages/argentina-catamarca.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Stages/australia-monaro.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Locations/Stages/australia-monaro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/Stages/Stages/new-zealand-hawkes-bay.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/Locations/Stages/new-zealand-hawkes-bay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/homeStrip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/Australia.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/Australia.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/Germany.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/Germany.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/Monaco.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/Monaco.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/New Zealand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/New Zealand.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/Poland.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/Poland.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/Spain.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/Spain.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/Sweden.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/Sweden.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/USA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/USA.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/argentina.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/argentina.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Main Pages/images/rallybg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Final-Project/images/rallybg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Stages excel.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Submission Pages/SubmitCars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Submission Pages/SubmitStages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final-Project/Submission Pages/SubmitTunes.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +88,9 @@
         <option value="tsconfig.json" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="JSON File" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -56,37 +107,65 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mongo" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cw14" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.2" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/cw5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages\main-CSS" />
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages\images" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\hw13" />
-      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages\Stages" />
-      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\RTEST" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages\Scripts\modules" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\cw14" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\cw11" />
       <recent name="C:\Users\xavie\PhpstormProjects\301_final_project\Final-Project\Main Pages" />
       <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project\Final-Project" />
-      <recent name="C:\Users\xgutier1\PhpstormProjects\301_final_project" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.contactForm.js">
+    <configuration name="ContactFormNode.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Final-Project/Main Pages/Scripts/ContactFormNode.js" working-dir="$PROJECT_DIR$/Final-Project/Scripts">
+      <method v="2" />
+    </configuration>
+    <configuration name="contactForm.js" type="NodeJSConfigurationType" temporary="true" path-to-node="node" nameIsGenerated="true" path-to-js-file="contactForm.js" working-dir="$PROJECT_DIR$/Final-Project/Scripts">
+      <method v="2" />
+    </configuration>
     <configuration name="cw10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/cw10/cw10.js" working-dir="$PROJECT_DIR$/cw10">
       <method v="2" />
     </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Final-Project/Main Pages/Scripts/test.js" working-dir="$PROJECT_DIR$/Final-Project/Scripts">
+      <method v="2" />
+    </configuration>
+    <configuration name="contactForm.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Final-Project/Scripts/contactForm.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.contactForm.js" />
+      <item itemvalue="Node.js.cw10.js" />
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Node.js.ContactFormNode.js" />
+      <item itemvalue="PHP Script.contactForm.php" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.contactForm.js" />
+        <item itemvalue="PHP Script.contactForm.php" />
+        <item itemvalue="Node.js.ContactFormNode.js" />
+        <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.cw10.js" />
       </list>
     </recent_temporary>
@@ -148,7 +227,14 @@
       <workItem from="1587347333398" duration="633000" />
       <workItem from="1587399215774" duration="11898000" />
       <workItem from="1587519614296" duration="1199000" />
-      <workItem from="1587520823566" duration="729000" />
+      <workItem from="1587520823566" duration="5532000" />
+      <workItem from="1587527391103" duration="2400000" />
+      <workItem from="1587532084974" duration="6248000" />
+      <workItem from="1587593938266" duration="9610000" />
+      <workItem from="1587779616839" duration="16468000" />
+      <workItem from="1587946538487" duration="10167000" />
+      <workItem from="1587970339693" duration="623000" />
+      <workItem from="1588102357918" duration="393000" />
     </task>
     <task id="LOCAL-00001" summary="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp">
       <created>1583869771746</created>
@@ -199,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587268380600</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="restructured Final-Project Directory and made template for the secondary landing pages.">
+      <created>1587521625486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587521625486</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,28 +311,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added a vertical line to test how it looks. Content sections of the page will need to be restructured to resemble https://www.w3schools.com/howto/howto_css_two_columns.asp" />
     <MESSAGE value="restructured Final-Project Directory and made template for the secondary landing pages." />
     <option name="LAST_COMMIT_MESSAGE" value="restructured Final-Project Directory and made template for the secondary landing pages." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1321" y="291" key="#CLI_Interpreters" timestamp="1587781311609">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="1321" y="291" key="#CLI_Interpreters/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587781311609" />
     <state x="238" y="424" key="#Deployment" timestamp="1584677788882">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="304" y="156" key="#Deployment/0.0.1739.939@0.0.1739.939" timestamp="1583782290239" />
     <state x="238" y="424" key="#Deployment/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584677788882" />
-    <state x="1512" y="362" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1579055903952" />
-    <state x="1814" y="436" key="#Deployment/0.0.3072.1688@0.0.3072.1688" timestamp="1579044686338" />
+    <state x="1045" y="497" key="#Notifications" timestamp="1587528085436">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="1045" y="497" key="#Notifications/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587528085436" />
     <state x="790" y="324" key="#Options" timestamp="1584677605347">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="790" y="324" key="#Options/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584677605347" />
-    <state x="872" y="359" key="#Options/0.0.2560.1400@0.0.2560.1400" timestamp="1579053190427" />
-    <state x="991" y="500" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584643827813">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state x="1459" y="290" key="#PHP" timestamp="1587781312486">
+      <screen x="0" y="0" width="2318" height="1265" />
     </state>
+    <state x="1459" y="290" key="#PHP/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587781312486" />
+    <state x="748" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587871138129">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="748" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587871138129" />
     <state x="991" y="500" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3072.1688/3840.451.1920.1040@0.0.3072.1688" timestamp="1584643827813" />
-    <state x="991" y="500" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1579044541857" />
     <state x="334" y="439" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584755293160">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -252,22 +355,33 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="840" y="370" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587519513190" />
-    <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584029720489">
-      <screen x="0" y="0" width="3072" height="1688" />
-    </state>
-    <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1582514742967" />
-    <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584029720489" />
-    <state x="1107" y="332" key="CommitChangelistDialog2" timestamp="1587268379830">
+    <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587963171661">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1107" y="332" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587268379830" />
+    <state x="311" y="381" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587963171661" />
+    <state x="412" y="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584029720489" />
+    <state x="873" y="285" key="#contactForm.js" timestamp="1587537414233">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="873" y="285" key="#contactForm.js/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587537414233" />
+    <state x="1453" y="328" key="#contactForm.php" timestamp="1587781313242">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="1453" y="328" key="#contactForm.php/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587781313242" />
+    <state x="873" y="285" key="#test.js" timestamp="1587533719686">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="873" y="285" key="#test.js/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587533719686" />
+    <state x="1037" y="121" key="CommitChangelistDialog2" timestamp="1587521624891">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="1037" y="121" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587521624891" />
     <state x="3289" y="320" key="CommitChangelistDialog2/0.0.2318.1265/2560.192.1739.939@2560.192.1739.939" timestamp="1584765001587" />
     <state x="1467" y="443" key="CommitChangelistDialog2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132880127" />
     <state x="83" y="83" width="2152" height="1099" key="DiffContextDialog" timestamp="1581925644998">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="83" y="83" width="2152" height="1099" key="DiffContextDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1581925644998" />
-    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579055446847" />
     <state x="93" y="93" width="2133" height="1080" key="DirDiffDialog" timestamp="1580012757700">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -277,24 +391,92 @@
     </state>
     <state x="940" y="389" key="FileChooserDialogImpl/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1581649849910" />
     <state x="1410" y="589" key="FileChooserDialogImpl/0.0.3478.1917@0.0.3478.1917" timestamp="1581720452991" />
-    <state x="604" y="772" key="NewPhpFileDialog" timestamp="1584030611641">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state width="1114" height="353" key="GridCell.Tab.0.bottom" timestamp="1587888503257">
+      <screen x="0" y="0" width="2318" height="1265" />
     </state>
+    <state width="1114" height="353" key="GridCell.Tab.0.bottom/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587888503257" />
+    <state width="1114" height="353" key="GridCell.Tab.0.center" timestamp="1587888503257">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="1114" height="353" key="GridCell.Tab.0.center/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587888503257" />
+    <state width="1114" height="353" key="GridCell.Tab.0.left" timestamp="1587888503256">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="1114" height="353" key="GridCell.Tab.0.left/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587888503256" />
+    <state width="1114" height="353" key="GridCell.Tab.0.right" timestamp="1587888503257">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="1114" height="353" key="GridCell.Tab.0.right/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587888503257" />
+    <state width="2276" height="435" key="GridCell.Tab.1.bottom" timestamp="1587538458626">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.1.bottom/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458626" />
+    <state width="2276" height="435" key="GridCell.Tab.1.center" timestamp="1587538458626">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.1.center/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458626" />
+    <state width="2276" height="435" key="GridCell.Tab.1.left" timestamp="1587538458626">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.1.left/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458626" />
+    <state width="2276" height="435" key="GridCell.Tab.1.right" timestamp="1587538458626">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.1.right/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458626" />
+    <state width="2276" height="435" key="GridCell.Tab.2.bottom" timestamp="1587538458627">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.2.bottom/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458627" />
+    <state width="2276" height="435" key="GridCell.Tab.2.center" timestamp="1587538458626">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.2.center/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458626" />
+    <state width="2276" height="435" key="GridCell.Tab.2.left" timestamp="1587538458626">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.2.left/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458626" />
+    <state width="2276" height="435" key="GridCell.Tab.2.right" timestamp="1587538458626">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.2.right/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458626" />
+    <state width="2276" height="435" key="GridCell.Tab.3.bottom" timestamp="1587538458627">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.3.bottom/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458627" />
+    <state width="2276" height="435" key="GridCell.Tab.3.center" timestamp="1587538458627">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.3.center/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458627" />
+    <state width="2276" height="435" key="GridCell.Tab.3.left" timestamp="1587538458627">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.3.left/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458627" />
+    <state width="2276" height="435" key="GridCell.Tab.3.right" timestamp="1587538458627">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="2276" height="435" key="GridCell.Tab.3.right/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587538458627" />
+    <state width="197" height="538" key="HiddenNamespacesPopup" timestamp="1587533344818">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state width="197" height="538" key="HiddenNamespacesPopup/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587533344818" />
+    <state x="456" y="579" key="NewPhpFileDialog" timestamp="1587869026730">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="456" y="579" key="NewPhpFileDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587869026730" />
     <state x="604" y="772" key="NewPhpFileDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030611641" />
-    <state x="989" y="274" key="SettingsEditor" timestamp="1587521552462">
+    <state x="989" y="274" key="SettingsEditor" timestamp="1587533221226">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="989" y="274" key="SettingsEditor/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587521552462" />
-    <state x="272" y="435" key="Vcs.Push.Dialog.v2" timestamp="1587268384200">
+    <state x="989" y="274" key="SettingsEditor/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587533221226" />
+    <state x="272" y="435" key="Vcs.Push.Dialog.v2" timestamp="1587521627892">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="272" y="435" key="Vcs.Push.Dialog.v2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587268384200" />
+    <state x="272" y="435" key="Vcs.Push.Dialog.v2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587521627892" />
     <state x="2764" y="515" key="Vcs.Push.Dialog.v2/0.0.2318.1265/2560.192.1739.939@2560.192.1739.939" timestamp="1584765006642" />
     <state x="361" y="581" key="Vcs.Push.Dialog.v2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132886851" />
     <state x="1058" y="558" key="com.intellij.ide.util.TipDialog" timestamp="1584641678848">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578961526824" />
     <state x="798" y="418" key="com.intellij.ide.util.TipDialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1579462405020" />
     <state x="1058" y="558" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.451.1920.1040@0.0.3072.1688" timestamp="1584641678848" />
     <state x="1058" y="558" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584132852170" />
@@ -302,30 +484,30 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="969" y="550" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1584666086656" />
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1" timestamp="1587400803781">
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1" timestamp="1587957955397">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587400803781" />
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587957955397" />
     <state x="1530" y="0" width="1549" height="1694" key="dock-window-1/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030253313" />
     <state x="1730" y="0" width="1759" height="1928" key="dock-window-1/0.0.3478.1917@0.0.3478.1917" timestamp="1581720529200" />
-    <state x="139" y="435" width="900" height="1251" key="dock-window-2" timestamp="1587402440750">
+    <state x="1041" y="48" width="886" height="1251" key="dock-window-2" timestamp="1587965777781">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="139" y="435" width="900" height="1251" key="dock-window-2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587402440750" />
+    <state x="1041" y="48" width="886" height="1251" key="dock-window-2/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587965777781" />
     <state x="1536" y="0" width="1536" height="1688" key="dock-window-2/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584030678267" />
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-3" timestamp="1587411127554">
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-3" timestamp="1587888503380">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-3/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587411127554" />
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-3/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587888503380" />
     <state x="1475" y="90" width="1004" height="1337" key="dock-window-3/0.0.3072.1688/3840.885.1920.1040@0.0.3072.1688" timestamp="1584041497524" />
     <state x="209" y="178" width="743" height="909" key="find.popup" timestamp="1581928621264">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="209" y="178" width="743" height="909" key="find.popup/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1581928621264" />
-    <state x="1726" y="434" key="ftp.server.browser" timestamp="1579055851826">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="1010" y="528" key="jetbrains.nodejs.interpreters-dialog" timestamp="1587533181604">
+      <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1726" y="434" key="ftp.server.browser/0.0.2560.1400@0.0.2560.1400" timestamp="1579055851826" />
+    <state x="1010" y="528" key="jetbrains.nodejs.interpreters-dialog/0.0.2318.1265/2560.192.1739.939@0.0.2318.1265" timestamp="1587533181604" />
     <state x="634" y="739" key="publish.login" timestamp="1584651809928">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>

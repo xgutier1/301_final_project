@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>DiRT Rally DB</title>
-    <link rel="stylesheet" type="text/css" href="All.css">
-    <link rel="stylesheet" type="text/css" href="homeStrip.css">
+    <link rel="stylesheet" type="text/css" href="main-CSS/All.css">
+    <link rel="stylesheet" type="text/css" href="main-CSS/homeStrip.css">
 </head>
 <body class="fontStandard backgroundImg">
 <!--HEADER AND NAV BAR-->
@@ -19,8 +19,7 @@
 <nav class="backgroundBlue">
     <a href="Home.html" class="links">Home</a>
     <a href="Cars.html" class="links">Cars</a>
-    <a href="Stages/Locations.html" class="links">Stages</a>
-    <a href="CarTunes.html" class="links">Car Tunes</a>
+    <a href="../Locations/Locations.html" class="links">Stages</a>
     <a href="Contact%20Us.html" class="links">Contact Us</a>
 </nav>
 <div id="stripContact">
@@ -30,11 +29,11 @@
         </h1>
     </div>
     <div id="prefName1">
-        <p>What name do you prefer we call you:</p>
+        <p>What's your name:</p>
     </div>
     <div id="prefName2">
         <label>
-            <input type="text" required>
+            <input type="text" name="name" required>
         </label>
     </div>
     <div id="reason1">
@@ -42,15 +41,15 @@
     </div>
     <div id="reason2">
         <label>
-            <input type="text" required>
+            <input type="text" name="reason" required>
         </label>
     </div>
     <div id="email1">
-        <p>What's you email so we can email you back:</p>
+        <p>What's a good email to contact you:</p>
     </div>
     <div id="email2">
         <label>
-            <input type="text" required>
+            <input type="text" name="email" required>
         </label>
     </div>
     <div id="textField1">
@@ -58,14 +57,18 @@
     </div>
     <div id="textField2">
         <label>
-            <textarea rows="6" cols="40" required></textarea>
+            <textarea rows="6" cols="40" name="request" required></textarea>
         </label>
     </div>
     <div id="contactSubmit">
-        <button type="submit" value="Submit">Submit</button>
+        <button type="submit" id="submit" name="submit" value="Submit">Submit</button>
     </div>
 </div>
 <!--FOOTER-->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="../Scripts/contactScript.js"></script>
+<!--<script src="Scripts/contactForm.js"></script>-->
 <footer>
     <a>&copy;2020 DiRT Rally DB</a> |
     <a class="noDecor" href="terms.html">Privacy and terms</a> |
@@ -73,4 +76,5 @@
     <a class="noDecor" href="mailto:xgutier1@asu.edu">Email Me</a>
 </footer>
 </body>
+
 </html>

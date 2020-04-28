@@ -63,7 +63,8 @@
     padding-bottom: 30px;
     display:grid;
     grid-template-columns: 400px 400px 400px;
-    grid-gap: 3px;
+    grid-column-gap: 0;
+    grid-row-gap: 3px;
     justify-items: center;
     justify-content: center;
 }
@@ -72,15 +73,19 @@
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 10px;
+    margin-bottom: 3px;
     border: 3px solid #031d44;
     text-align: center;
+    width:350px;
 }
 .boxborder:hover {
     background-color: #334c66;
     border: 3px solid #223045;
 }
-img {
-    width: 350px
+.boxborder img {
+    width: 350px;
+    height: 200px;
+    overflow: hidden;
 }
 #stripStages {
     margin-left: 7.5%;

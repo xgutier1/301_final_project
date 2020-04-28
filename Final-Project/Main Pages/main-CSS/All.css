@@ -10,11 +10,12 @@
     margin-right: 7.5%;
 }
 #header {
-    font-size: 50px;
+    font-size: 65px;
     padding: 0;
     margin: 0;
 }
 #nospace {
+    font-size: 19.5px;
     padding: 0;
     margin: 0;
 }
@@ -36,7 +37,7 @@
     font-family: "Arial Narrow", serif
 }
 .backgroundImg {
-    background-image: url("../../hw5/rallybg.jpg");
+    background-image: url("../../../hw5/rallybg.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -52,7 +53,7 @@
 nav {
     text-align: center;
     font-size:x-large;
-    padding: 10px 0;
+    padding: 15px 0;
     margin-top: 0;
     margin-left: 7.5%;
     margin-right: 7.5%;
@@ -89,9 +90,6 @@ h2 {
 }
 p {
     font-size: large;
-}
-.blinking{
-    animation:blinkingText 1.2s infinite;
 }
 @keyframes blinkingText {
     0% {
@@ -140,4 +138,10 @@ button:active {
 }
 input:focus, textarea:focus {
     border: 1px solid #e40e34;
+}
+a {
+    text-decoration: none;
+}
+.pHeight {
+    line-height: 30px;
 }
